@@ -1,0 +1,12 @@
+{
+  "name": "birthday-countdown",
+  "version": "1.0.0",
+  "description": "Beautiful Birthday Countdown with Galaxy Background",
+  "homepage": "https://manoharreddy252.github.io/birthday-countdown",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
