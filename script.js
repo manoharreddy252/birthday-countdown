@@ -3,7 +3,7 @@ class BirthdayCountdown {
         this.targetDate = new Date('2024-08-02T00:00:00');
         this.currentYear = new Date().getFullYear();
         this.nextBirthday = this.getNextBirthday();
-        this.birthYear = 1990; // Adjust this to actual birth year
+        this.birthYear = 1994; // Birth year August 2, 1994
         
         this.elements = {
             days: document.getElementById('days'),
